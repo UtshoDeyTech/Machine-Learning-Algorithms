@@ -85,21 +85,22 @@ This section covers implementation of various deep learning algorithms. It inclu
   - Restricted Boltzmann Machines (RBMs)
   - Autoencoders
 
-Contributing
+## Contributing
 Contributions are always welcome! If you want to contribute to this repository, please follow these steps:
 
-Fork this repository
-Clone the forked repository to your local machine
-Create a new branch for your changes
-Make your changes in the new branch
-Push your changes to your forked repository
-Create a pull request from your forked repository to this repository
-License
+- Fork this repository
+- Clone the forked repository to your local machine
+- Create a new branch for your changes
+- Make your changes in the new branch
+- Push your changes to your forked repository
+- Create a pull request from your forked repository to this repository
+
+## License
 This repository is licensed under the MIT License. See the LICENSE file for more information.
 
-Contact
-If you have any questions or suggestions, feel free to email me at [your_email_address]. You can also follow me on Twitter [@your_twitter_handle] for updates and other projects I'm working on.
+## Contact
+If you have any questions or suggestions, feel free to email me at [utshodey.tech@gmail.com]. You can also follow me on Twitter [https://twitter.com/UtshoDeyTech] for updates and other projects I'm working on.
 
-Conclusion
+## Conclusion
 This is a comprehensive collection of machine learning algorithms and concepts. It is designed to be an easy-to-use reference for anyone interested in machine learning, whether they are beginners or experienced practitioners. The repository is open to contributions, so please feel free to suggest improvements or add new algorithms.
 
